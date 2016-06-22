@@ -1,0 +1,866 @@
+Note:  If an area is not listed, assume the same encounters as vanilla Emerald
+
+=Route 101=
+Grass:
+-Zigzagoon (45%)
+-Poochyena (45%)
+-Pidgey (5%)
+-Sentret (5%)
+
+=Route 102=
+Grass:
+-Zigzagoon (40%)
+-Poochyena (40%)
+-Ledyba (10%)
+-Ratatta (5%)
+-Ralts (4%)
+-Surskit (1%)
+Fishing:
+-Poliwag (Old Rod, 70%) (Good Rod, 60%)
+-Goldeen (Old Rod, 30%) (Good Rod, 20%)
+-Corphish (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Marill (60%)
+-Poliwag (35%)
+-Goldeen (4%)
+-Surskit (1%)
+
+=Route 103=
+Grass:
+-Zigzagoon (40%)
+-Poochyena (40%)
+-Wingull (10%)
+-Ratatta (5%)
+-Ledyba (5%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 104=
+Grass:
+-Taillow (35%)
+-Wingull (35%)
+-Marill (20%)
+-Spinarak (5%)
+-Hoothoot (5%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%) (Super Rod, 75%)
+-Wooper (Old Rod, 30%) (Good Rod, 40%) (Super Rod, 25%)
+-Quagsire (Super Rod, 5%)
+
+=Route 105=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Qwilfish (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Route 106=
+Fishing:
+-Magikarp (Old Rod, 100%) (Good Rod, 60%)
+-Qwilfish (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Route 107=
+Fishing:
+-Magikarp (Old Rod, 100%) (Good Rod, 60%)
+-Qwilfish (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Route 108=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Qwilfish (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Route 109=
+Fishing:
+-Magikarp (Old Rod, 100%) (Good Rod, 60%)
+-Qwilfish (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Route 110=
+Grass:
+-Electrike (30%)
+-Oddish (25%)
+-Gulpin (20%)
+-Plusle (10%)
+-Minun (10%)
+-Mareep (5%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 111=
+Desert:
+-Trapinch (40%)
+-Sandshrew (35%)
+-Diglett (18%)
+-Cacnea (5%)
+-Larvitar (2%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Barboach (Old Rod, 30%) (Good Rod, 40%) (Super Rod, 100%)
+Surfing:
+-Marill (99%)
+-Goldeen (1%)
+
+=Route 112=
+Grass:
+-Nidoran M (35%)
+-Nidoran F (35%)
+-Ekans (20%)
+-Meowth (5%)
+-Growlithe (5%)
+
+=Route 113=
+Grass:
+-Spinda (50%)
+-Slugma (30%)
+-Skarmory (10%)
+-Ponyta (5%)
+-Houndour (5%)
+
+=Route 114=
+Grass:
+-Swablu (40%)
+-Lotad (30%)
+-Lombre (10%)
+-Seviper (10%)
+-Zangoose (10%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Wooper (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
+-Barboach (Good Rod, 20%) (Super Rod, 70%)
+Surfing:
+-Marill (95%)
+-Goldeen (4%)
+-Surskit (1%)
+
+=Route 115=
+Grass:
+-Taillow (40%)
+-Swablu (25%)
+-Drowzee (15%)
+-Jigglypuff (15%)
+-Swellow (5%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Snorlax (only one, must use Surf)
+
+=Route 116=
+Grass:
+-Poochyena (35%)
+-Taillow (25%)
+-Nincada (25%)
+-Abra (10%)
+-Skitty (4%)
+-Snubbull (1%)
+
+=Route 117=
+Grass:
+-Bellsprout (40%)
+-Volbeat (20%)
+-Illumise (20%)
+-Roselia (15%)
+-Seedot (5%)
+Fishing:
+-Poliwag (Old Rod, 70%) (Good Rod, 60%)
+-Corphish (Old Rod, 30%) (Good Rod, 40%) (Super Rod, 100%)
+Surfing:
+-Marill (95%)
+-Goldeen (4%)
+-Surskit (1%)
+
+=Route 118=
+Grass:
+-Hoppip (30%)
+-Electrike (30%)
+-Wingull (19%)
+-Skiploom (10%)
+-Manectric (10%)
+-Kecleon (1%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Carvanha (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 119=
+Grass:
+-Tangela (30%)
+-Zigzagoon (30%)
+-Linoone (30%)
+-Tropius (9%)
+-Kecleon (1%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Carvanha (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Feebas (Any rod 50%, appears in 6 tiles)
+-Kecleon (only two)
+-Castform (Weather Institute)
+
+=Route 120=
+Grass:
+-Mightyena (30%)
+-Tangela (25%)
+-Sentret (20%)
+-Marill (15%)
+-Absol (8%)
+-Kecleon (1%)
+-Surskit (1%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Goldeen (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
+-Barboach (Good Rod, 20%) (Super Rod, 70%)
+Surfing:
+-Marill (99%)
+-Surskit (1%)
+
+=Route 121=
+Grass:
+-Shuppet (30%)
+-Sentret (20%)
+-Furret (20%)
+-Bellsprout (15%)
+-Gastly (9%)
+-Weepinbell (5%)
+-Kecleon (1%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Snorlax (only one)
+
+=Route 122=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 123=
+Grass:
+-Shuppet (30%)
+-Sentret (20%)
+-Furret (20%)
+-Bellsprout (15%)
+-Gastly (9%)
+-Weepinbell (5%)
+-Keckleon (1%)
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 124=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 55%)
+-Sharpedo (Super Rod, 40%)
+-Seel (Super Rod, 5%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Pelipper (5%)
+-Seel (4%)
+-Dewgong (1%)
+Underwater:
+-Clamperl (60%)
+-Chinchou (30%)
+-Shellder (5%)
+-Relicanth (5%)
+
+=Route 125=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 126=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Underwater:
+-Clamperl (60%)
+-Chinchou (30%)
+-Shellder (5%)
+-Relicanth (5%)
+
+=Route 127=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Lapras (only one, shiny)
+
+=Route 128=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Luvdisc (Good Rod, 20%) (Super Rod, 40%)
+-Corsola (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Route 129=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 55%)
+-Sharpedo (Super Rod, 40%)
+-Wailord (Super Rod, 5%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Pelipper (5%)
+-Lapras (5%)
+
+=Route 130=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 55%)
+-Sharpedo (Super Rod, 40%)
+-Wailord (Super Rod, 5%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Pelipper (5%)
+-Lapras (5%)
+
+=Route 131=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 55%)
+-Sharpedo (Super Rod, 40%)
+-Wailord (Super Rod, 5%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Pelipper (5%)
+-Mantine (5%)
+
+=Route 132=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 45%)
+-Sharpedo (Super Rod, 40%)
+-Horsea (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Mantine (10%)
+
+=Route 133=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 45%)
+-Sharpedo (Super Rod, 40%)
+-Horsea (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Mantine (10%)
+
+=Route 134=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 45%)
+-Sharpedo (Super Rod, 40%)
+-Horsea (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (30%)
+-Mantine (10%)
+
+=Petalburg City=
+Fishing:
+-Goldeen (Old Rod, 100%) (Good Rod, 80%)
+-Corphish (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Marill (100%)
+
+=Rustboro City=
+Trade:
+-Porygon (give Ralts)
+
+=Dewford Town=
+Fishing:
+-Magikarp (Old Rod, 100%) (Good Rod, 60%)
+-Qwilfish (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Slateport City=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Qwilfish (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 100%)
+Surfing:
+-Qwilfish (60%)
+-Wingull (30%)
+-Pelipper (10%)
+
+=Verdanturf Town=
+Other:
+-Treecko/Torchic/Mudkip (purchased from egg seller)
+
+=Lavaridge Town=
+Other:
+-Wynaut (egg from lady)
+-Togepi (egg from lady after receiving Wynaut and beating Pokemon League, only one)
+
+=Fortree City=
+Trade:
+-Eevee (give Skarmory)
+
+=Lilycove City=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 85%)
+-Staryu (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Chikorita/Cyndaquil/Totodile (purchased from egg seller)
+
+=Mossdeep City=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Other:
+-Jirachi (only one, must finish w/ Team Magma in Space Center)
+
+=Pacifidlog Town=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Wailmer (Good Rod, 20%) (Super Rod, 60%)
+-Sharpedo (Super Rod, 40%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+Trade:
+-Smoochum (give Bagon)
+
+=Sootopolis City=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 100%) (Super Rod, 80%)
+-Tentacool (Old Rod, 30%)
+-Gyarados (Super Rod, 20%)
+Surfing:
+-Magikarp (100%)
+
+=Ever Grande City=
+Fishing:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%)
+-Wailmer (Good Rod, 20%) (Super Rod, 45%)
+-Luvdisc (Good Rod, 20%) (Super Rod, 40%)
+-Corsola  (Super Rod, 15%)
+Surfing:
+-Tentacool (60%)
+-Wingull (35%)
+-Pelipper (5%)
+
+=Battle Frontier=
+Trade:
+-Unown (give Xatu)
+Other:
+-Bulbasaur/Charmander/Squirtle (purchased from egg seller)
+-Sudowoodo (only one)
+
+=Petalburg Woods=
+Grass:
+-Wurmple (40%)
+-Shroomish (35%)
+-Weedle (10%)
+-Caterpie (10%)
+-Pineco (4%)
+-Slakoth (1%)
+Other:
+-Celebi (only one, must have GS Ball)
+
+=Rusturf Tunnel=
+Cave:
+-Whismur (85%)
+-Zubat (15%))
+
+=Granite Cave=
+Cave, 1F:
+-Zubat (45%)
+-Makuhita (30%)
+-Geodude (20%)
+-Tyrogue (4%)
+-Onix (1%)
+Cave, B1:
+-Zubat (40%)
+-Aron (30%)
+-Makuhita (14%)
+-Mawile (10%)
+-Sableye (5%)
+-Onix (1%)
+Cave, B2:
+-Zubat (50%)
+-Aron (34%)
+-Sableye (10%)
+-Mawile (5%)
+-Onix (1%)
+Cave, Steven's Room:
+-Zubat (50%)
+-Makuhita (30%)
+-Aron (10%)
+-Nosepass (10%)
+
+=Mirage Tower=
+Tower, 1F:
+-Diglett (55%)
+-Sandshrew (39%)
+-Dugtrio (4%)
+-Larvitar (2%)
+Tower, 2F/3F/4F:
+-Baltoy (35%)
+-Trapinch (30%)
+-Sandshrew (30%)
+-Larvitar (5%)
+Other:
+-Omanyte/Kabuto/Aerodactyl/Lileep/Anorith fossils in Mirage Tower (pick 2 of 5, other 3 go to Desert Underpass)
+
+=Fiery Path=
+Cave:
+-Numel (35%)
+-Koffing (25%)
+-Torkoal (25%)
+-Grimer (10%)
+-Magmar (5%)
+
+=Meteor Falls=
+Cave, 1F 1R:
+-Zubat (50%)
+-Lunatone (20%)
+-Solrock (20%)
+-Paras (8%)
+-Clefairy (2%)
+Fishing, 1F 1R:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Poliwag (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
+-Barboach (Good Rod, 20%) (Super Rod, 70%)
+Surfing, 1F 1R:
+-Zubat (90%)
+-Solrock (5%)
+-Lunatone (5%)
+Cave, 1F 2R/B1 1R:
+-Golbat (50%)
+-Lunatone (20%)
+-Solrock (20%)
+-Parasect (8%)
+-Clefairy (2%)
+Fishing, 1F 2R:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Poliwag (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
+-Barboach (Good Rod, 20%) (Super Rod, 40%)
+-Whiscash (Super Rod, 30%)
+Surfing, 1F 2R/B1 1R/B1 2R:
+-Golbat (90%)
+-Solrock (5%)
+-Lunatone (5%)
+Cave, B1 2R:
+-Golbat (53%)
+-Lunatone (10%)
+-Solrock (10%)
+-Bagon (25%)
+-Clefairy (2%)
+Fishing, B1 1R/B1 2R:
+-Magikarp (Old Rod, 70%) (Good Rod, 60%)
+-Poliwag (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
+-Barboach (Super Rod, 40%)
+-Whiscash (Super Rod, 15%)
+-Dratini (Good Rod, 20%) (Super Rod, 10%)
+-Dragonair (Super Rod, 5%)
+
+=Jagged Pass=
+Grass:
+-Numel (40%)
+-Machop (30%)
+-Spoink (20%)
+-Spearow (5%)
+-Mankey (5%)
+
+=New Mauville=
+Interior, 1F/B1:
+-Magnemite (44%)
+-Voltorb (44%)
+-Grimer (10%)
+-Electabuzz (2%)
+Other:
+-Zapdos (only one)
+
+=Safari Zone=
+Grass, Area 1:
+-Exeggcute (40%)
+-Doduo (30%)
+-Girafarig (15%)
+-Pikachu (8%)
+-Scyther (7%)
+Grass, Area 2:
+-Exeggcute (35%)
+-Venonat (30%)
+-Natu (20%)
+-Pikachu (10%)
+-Mr. Mime (5%)
+Fishing, Area 2/Area 3:
+-Slowpoke (Old Rod, 70%) (Good Rod, 60%)
+-Psyduck (Old Rod, 30%) (Good Rod, 40%) (Super Rod, 70%)
+-Dratini (Super Rod, 25%)
+-Dragonair (Super Rod, 5%)
+Surfing, Area 2/Area 3:
+-Slowpoke (90%)
+-Dratini (9%)
+-Dragonair (1%)
+Grass, Area 3:
+-Natu (30%)
+-Rhyhorn (30%)
+-Sunkern (25%)
+-Teddiursa (10%)
+-Pinsir (5%)
+Grass, Area 4:
+-Natu (35%)
+-Rhyhorn (30%)
+-Phanpy (25%)
+-Heracross (8%)
+-Chansey (2%)
+Other, Area 4:
+-Shuckle (Rock Smash, 95%)
+-Dunsparce (Rock Smash, 5%)
+Grass, Area 5:
+-Aipom (30%)
+-Gligar (30%)
+-Farfetch'd (25%)
+-Stantler (10%)
+-Kangaskhan (5%)
+Fishing, Area 5:
+-Krabby (Old Rod, 70%) (Good Rod, 60%) (Super Rod, 40%)
+-Remoraid (Old Rod, 30%) (Good Rod, 40%) (Super Rod, 55%)
+-Octillary (Super Rod, 5%)
+Surfing, Area 5:
+-Krabby (60%)
+-Remoraid (35%)
+-Octillery (5%)
+Grass, Area 6:
+-Gligar (30%)
+-Yanma (25%)
+-Aipom (20%)
+-Miltank (10%)
+-Tauros (10%)
+-Lickitung (5%)
+Other, Area 6:
+-Shuckle (Rock Smash, 95%)
+-Dunsparce (Rock Smash, 5%)
+
+=Mt. Pyre=
+Interior, 1F/2F/3F:
+-Shuppet (65%)
+-Gastly (15%)
+-Misdreavus (15%)
+-Cubone (5%)
+Interior, 4F/5F/6F:
+-Shuppet (65%)
+-Gastly (15%)
+-Duskull (15%)
+-Haunter (5%)
+Grass, Exterior:
+-Vulpix (30%)
+-Meditite (30%)
+-Misdreavus (25%)
+-Murkrow (15%)
+Grass, Summit:
+-Shuppet (70%)
+-Duskull (14%)
+-Gastly (14%)
+-Chimecho (2%)
+
+=Magma Hideout=
+Cave, All Rooms:
+-Geodude (50%)
+-Torkoal (30%)
+-Graveller (15%)
+-Onix (5%)
+
+=Shoal Cave=
+Main Cave, Both Tides:
+-Spheal (45%)
+-Zubat (40%)
+-Krabby (10%)
+-Golbat (5%)
+Fishing:
+-Krabby (Old Rod, 70%) (Good Rod, 60%)
+-Tentacool (Old Rod, 30%) (Good Rod, 20%)
+-Seel (Good Rod, 20%) (Super Rod, 95%)
+-Dewgong (Super Rod, 5%)
+Surfing:
+-Tentacool (60%)
+-Zubat (30%)
+-Seel (10%)
+Ice Floor, Low Tide:
+-Swinub (55%)
+-Delibird (33%)
+-Snorunt (10%)
+-Sneasel (2%)
+Other:
+-Articuno (only one, must be low tide)
+
+=Sky Pillar=
+Interior, 1F/3F:
+-Golbat (30%)
+-Sableye (25%)
+-Mawile (25%)
+-Claydol (15%)
+-Wobbuffet (5%)
+Interior, 5F:
+-Golbat (30%)
+-Sableye (25%)
+-Mawile (25%)
+-Claydol (15%)
+-Altaria (5%)
+Other:
+-Rayquaza (only one, after Sootopolis)
+
+=Victory Road=
+Other:
+-Moltres (only one)
+
+=Altering Cave=
+Cave:
+-Zubat (90%)
+-Wobbuffet (10%)
+Other:
+-Mewtwo (only one, must beat the Elite Four)
+
+=Desert Underpass=
+Cave:
+-Ditto (50%)
+-Diglett (34%)
+-Dugtrio (16%)
+Other:
+-Omanyte/Kabuto/Aerodactyl/Lileep/Anorith fossils in Mirage Tower (the 3 which were not taken in Mirage Tower)
+
+=Artisan Cave=
+Cave:
+-Smeargle (100%)
+
+=Other=
+Roaming:
+-Groudon (after Sootopolis)
+-Kyogre (after Sootopolis)
+-Lati@s (choose one after beating Elite Four)
+-Raikou (after chosen Lati)
+-Entei (after Raikou)
+-Suicune (after Entei)
+Southern Island:
+-Non-roaming Lati@s (get Eon Ticket in Mossdeep from the old guy at the south end of the city after the E4)
+Birth Island:
+-Deoxys (get AuroraTicket from scientst in Space Center after meteor crash)
+Naval Rock:
+-Lugia (get MysticTicket from Scott after obtaining a set of Silver Symbols at the Battle Frontier)
+-Ho-Oh ("")
+Faraway Island:
+-Mew (get Old Sea Map from the Sailor at Slateport by the shipyard after E4)
