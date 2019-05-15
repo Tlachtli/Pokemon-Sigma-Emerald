@@ -249,7 +249,7 @@ Other:
 
 =Route 120=
 Grass:
--Mightyena (30%)
+-Furret (30%)
 -Tangela (25%)
 -Sentret (20%)
 -Marill (15%)
@@ -564,21 +564,25 @@ Surfing:
 
 =Battle Frontier=
 Trade:
--Unown (give Xatu)
+-Tyrogue (give Nosepass)
 Other:
 -Bulbasaur/Charmander/Squirtle (purchased from egg seller)
 -Sudowoodo (only one)
 
 =Petalburg Woods=
 Grass:
--Wurmple (40%)
--Shroomish (35%)
--Weedle (10%)
--Caterpie (10%)
--Pineco (4%)
--Slakoth (1%)
+- Wurmple (40%)
+- Shroomish (20%)
+- Silcoon (10%)
+- Cascoon (10%)
+- Caterpie (5%)
+- Weedle (5%)
+- Metapod (4%)
+- Kakuna (4%)
+- Pineco (1%)
+- Slakoth (1%)
 Other:
--Celebi (only one, must have GS Ball)
+- Celebi (only one; must have GS Ball)
 
 =Rusturf Tunnel=
 Cave:
@@ -589,8 +593,7 @@ Cave:
 Cave, 1F:
 -Zubat (45%)
 -Makuhita (30%)
--Geodude (20%)
--Tyrogue (4%)
+-Geodude (24%)
 -Onix (1%)
 Cave, B1:
 -Zubat (40%)
@@ -672,10 +675,8 @@ Cave, B1 2R:
 Fishing, B1 1R/B1 2R:
 -Magikarp (Old Rod, 70%) (Good Rod, 60%)
 -Poliwag (Old Rod, 30%) (Good Rod, 20%) (Super Rod, 30%)
--Barboach (Super Rod, 40%)
--Whiscash (Super Rod, 15%)
--Dratini (Good Rod, 20%) (Super Rod, 10%)
--Dragonair (Super Rod, 5%)
+-Barboach (Good Rod, 20%)(Super Rod, 65%)
+-Whiscash (Super Rod, 5%)
 
 =Jagged Pass=
 Grass:
@@ -687,10 +688,11 @@ Grass:
 
 =New Mauville=
 Interior, 1F/B1:
--Magnemite (44%)
+-Magnemite (49%)
 -Voltorb (44%)
--Grimer (10%)
--Electabuzz (2%)
+-Magneton (5%)
+-Electabuzz (1%)
+-Electrode (1%)
 Other:
 -Zapdos (only one)
 
@@ -761,7 +763,7 @@ Interior, 1F/2F/3F:
 -Shuppet (65%)
 -Gastly (15%)
 -Misdreavus (15%)
--Cubone (5%)
+-Duskull (5%)
 Interior, 4F/5F/6F:
 -Shuppet (65%)
 -Gastly (15%)
@@ -771,7 +773,8 @@ Grass, Exterior:
 -Vulpix (30%)
 -Meditite (30%)
 -Misdreavus (25%)
--Murkrow (15%)
+-Murkrow (10%)
+- Cubone (5%)
 Grass, Summit:
 -Shuppet (70%)
 -Duskull (14%)
@@ -828,10 +831,16 @@ Other:
 Other:
 -Moltres (only one)
 
-=Altering Cave=
+=Unknown Cave=
 Cave:
--Zubat (90%)
--Wobbuffet (10%)
+-Ditto (25%)
+-Kadabra (25%)
+-Grumpig (14%)
+-Golbat (11%)
+-Hariyama (10%)
+-Magneton (10%)
+-Electrode (4%)
+-Wobbufet (1%)
 Other:
 -Mewtwo (only one, must beat the Elite Four)
 
@@ -842,6 +851,9 @@ Cave:
 -Dugtrio (16%)
 Other:
 -Omanyte/Kabuto/Aerodactyl/Lileep/Anorith fossils in Mirage Tower (the 3 which were not taken in Mirage Tower)
+
+=Sealed Chamber=
+-Unown (100%)
 
 =Artisan Cave=
 Cave:
